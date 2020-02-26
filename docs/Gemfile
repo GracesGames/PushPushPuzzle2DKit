@@ -22,7 +22,6 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
   gem 'github-pages'
-  gem 'faraday', '0.17.3'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
