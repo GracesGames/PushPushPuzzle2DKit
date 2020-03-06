@@ -1,12 +1,12 @@
 # Push Push Puzzle 2D Kit for Unreal Engine 4
 
 <p align="center">
-	<a href="https://www.unrealengine.com/marketplace" rel="noreferrer" target="_blank">Marketplace</a> |
+	<a href="https://www.unrealengine.com/marketplace/en-US/product/push-push-puzzle-2d-kit" rel="noreferrer" target="_blank">Marketplace</a> |
 	<a href="https://gamejolt.com/games/push-push-puzzle-2d-kit/460802" rel="noreferrer" target="_blank">Demo</a> |
   	<a href="https://gracesgames.com/PushPushPuzzle2DKit/" rel="noreferrer" target="_blank">Website</a>
 </p>
 
-Available soon in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace)
+Available in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/push-push-puzzle-2d-kit)
 
 The Push Push Puzzle 2D Kit is an easy to use template for creating top down Push Push or Sokoban type of games in 2D!
  
