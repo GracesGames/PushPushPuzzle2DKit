@@ -16,7 +16,7 @@ BP_MainMenuGameMode is the game mode and specifies the BP_MainMenuPlayerControll
 
 __Game Instance__
 
-BP_PushPushPuzzle2DGameState is the game instance and handles the initial data (e.g. the levels for the level grid), saving and loading of the save game.
+BP_PushPushPuzzle2DGameInstance is the game instance and handles the initial data (e.g. the levels for the level grid), saving and loading of the save game.
 
 __Push Push Puzzle 2D Game Mode__
 
@@ -62,7 +62,7 @@ __BP_MainMenuPlayerController__
 
 Is responsible for creating and interacting with the Main Menu.
 
-__BP_PushPush2DPlayerController__
+__BP_PushPushPuzzle2DPlayerController__
  
 Is responsible for creating and interacting with the HUD (HUD changes, Pause Menu and Level Complete screen).
 
