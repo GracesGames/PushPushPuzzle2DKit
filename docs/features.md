@@ -13,6 +13,8 @@ The Push Push Puzzle 2D Kit provides:
 __Player__
 
 * Top down movement
+* Smooth interval movement
+* Instant interval movement
 * Three playable characters
 
 __Levels__
