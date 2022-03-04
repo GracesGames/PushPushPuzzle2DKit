@@ -8,8 +8,6 @@ permalink: /versions/
 
 ***
 
-Want more? Send an [email][mail], join [Discord][discord] or create a [GitHub issue][github-issue]
-
 ### Version 1.1.0
 
 ##### Release date: 19-09-2021
@@ -28,8 +26,3 @@ Improvements:
 ##### Release date: 06-03-2020
 
 * First release
-
-
-[mail]: mailto:gracesgamesbv@gmail.com
-[discord]: https://discord.gg/DBwFAES
-[github-issue]: https://github.com/GracesGames/PushPushPuzzle2DKit/issues
