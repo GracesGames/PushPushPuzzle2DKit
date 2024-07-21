@@ -17,5 +17,5 @@ Want more? Join the [Discord][discord] or send an [email][mail]
 * Multiple level size support
 * Level generation
 
-[discord]: https://discord.gg/CdBFgFzH
+[discord]: https://discord.gg/DnNyEMKWca
 [mail]: mailto:gracesgamesbv@gmail.com
