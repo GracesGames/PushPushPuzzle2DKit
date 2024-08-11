@@ -14,7 +14,7 @@ permalink: /versions/
 
 New features:
 
-* [Interactive Tile Map](https://gracesgames.com/InteractiveTileMap/) version 1.0.0
+* Integrated [Interactive Tile Map](https://gracesgames.com/InteractiveTileMap/) version 1.0.0
 
 ### Version 1.1.0
 
