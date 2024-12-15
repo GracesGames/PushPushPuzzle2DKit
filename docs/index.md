@@ -6,7 +6,7 @@ layout: default
 
 <iframe src="https://widgets.gamejolt.com/package/v1?key=PR3UeSoH&theme=light" frameborder="0" width="100%" height="170"></iframe>  
 <br/>
-Available in the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/push-push-puzzle-2d-kit){:target="_blank"}{:rel="noreferrer"}
+Available on [Fab](https://www.fab.com/listings/2004b211-8551-4792-9576-a98a50eddf46){:target="_blank"}{:rel="noreferrer"}
 
 The Push Push Puzzle 2D Kit is an easy to use template for creating top down Push Push or Sokoban type of games in 2D!
 
